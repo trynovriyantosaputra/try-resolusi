@@ -3,6 +3,7 @@ RENCANA HIDUP
   * bekerja keras.
   * tidur teratur.
     "Tidur Jam 10"
+    "bangun jam 5"
 - Happy.
   "Menikmati Hidup
 - Buka Usaha.
